@@ -6,12 +6,12 @@ export default function App() {
   return (
     <View style={styles.container}>
       {/* Today's tasks */}
-      <View style = {styles.tasksWrapper}>
-        <Text style = {styles.sectionTile}> Today's tasks </Text>
-        <View style = {styles.items}>
+      <View style={styles.tasksWrapper}>
+        <Text style={styles.sectionTile}> Today's tasks </Text>
+        <View style={styles.items}>
           {/* {This is where the tasks will go} */}
-          <Task text = {'Task 1'} />
-          <Task text = {'Task 2'} />
+          <Task text={'Task 1'} />
+          <Task text={'Task 2'} />
         </View>
       </View>
     </View>
