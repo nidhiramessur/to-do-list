@@ -2,6 +2,10 @@
 # To-do-list app
 A simple to-do list React Native app
 
+# Functionalities
+- Add tasks
+- Complete tasks (task gets deleted)
+
 # Demo of the app
 ![gif-demo 1](https://github.com/nidhiramessur/to-do-list/assets/45523505/6984b3de-6f69-46d9-a579-ddd42113bfda)
 
