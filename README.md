@@ -14,7 +14,7 @@ A simple to-do list React Native app
 - npm 9.6.7
 - nodeJs v18.17.1
 
-# How to see run the app
+# How to run the app
 - Download Expo app on your phone (iOS or Android)
 - Clone the repo on your machine
 - (Make sure you have JDK, NodeJs and npm installed)
