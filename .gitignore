@@ -33,3 +33,10 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# IntelliJ IDEA files
+.idea/
+
+# IntelliJ IDEA-specific files
+*.iml
+
